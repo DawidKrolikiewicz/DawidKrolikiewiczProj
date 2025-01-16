@@ -269,3 +269,4 @@ D:\01_Dawidowe\04_Programming\ASP.NET\DawidKrolikiewiczProj\bin\Debug\net8.0\Mic
 D:\01_Dawidowe\04_Programming\ASP.NET\DawidKrolikiewiczProj\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 D:\01_Dawidowe\04_Programming\ASP.NET\DawidKrolikiewiczProj\obj\Debug\net8.0\DawidKrolikiewiczProj.MvcApplicationPartsAssemblyInfo.cs
 D:\01_Dawidowe\04_Programming\ASP.NET\DawidKrolikiewiczProj\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\01_Dawidowe\04_Programming\ASP.NET\DawidKrolikiewiczProj\obj\Debug\net8.0\DawidKrolikiewiczProj.sourcelink.json

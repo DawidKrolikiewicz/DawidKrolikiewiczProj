@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\01_Dawidowe\\04_Programming\\ASP.NET\\DawidKrolikiewiczProj\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{56943418-40DF-4634-8D15-F376AF96308F}|DawidKrolikiewiczProj.csproj|d:\\01_dawidowe\\04_programming\\asp.net\\dawidkrolikiewiczproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56943418-40DF-4634-8D15-F376AF96308F}|DawidKrolikiewiczProj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{56943418-40DF-4634-8D15-F376AF96308F}|DawidKrolikiewiczProj.csproj|d:\\01_dawidowe\\04_programming\\asp.net\\dawidkrolikiewiczproj\\controllers\\poselscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56943418-40DF-4634-8D15-F376AF96308F}|DawidKrolikiewiczProj.csproj|solutionrelative:controllers\\poselscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{56943418-40DF-4634-8D15-F376AF96308F}|DawidKrolikiewiczProj.csproj|d:\\01_dawidowe\\04_programming\\asp.net\\dawidkrolikiewiczproj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{56943418-40DF-4634-8D15-F376AF96308F}|DawidKrolikiewiczProj.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56943418-40DF-4634-8D15-F376AF96308F}|DawidKrolikiewiczProj.csproj|d:\\01_dawidowe\\04_programming\\asp.net\\dawidkrolikiewiczproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56943418-40DF-4634-8D15-F376AF96308F}|DawidKrolikiewiczProj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PoselsController.cs",
               "DocumentMoniker": "D:\\01_Dawidowe\\04_Programming\\ASP.NET\\DawidKrolikiewiczProj\\Controllers\\PoselsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PoselsController.cs",
@@ -46,12 +46,11 @@
               "RelativeToolTip": "Controllers\\PoselsController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:25:14.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T10:25:14.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\01_Dawidowe\\04_Programming\\ASP.NET\\DawidKrolikiewiczProj\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -59,12 +58,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:24:17.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T10:24:17.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\01_Dawidowe\\04_Programming\\ASP.NET\\DawidKrolikiewiczProj\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -72,12 +70,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-15T10:14:55.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T10:14:55.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DawidKrolikiewiczProjContext.cs",
               "DocumentMoniker": "D:\\01_Dawidowe\\04_Programming\\ASP.NET\\DawidKrolikiewiczProj\\Data\\DawidKrolikiewiczProjContext.cs",
               "RelativeDocumentMoniker": "Data\\DawidKrolikiewiczProjContext.cs",
@@ -85,12 +82,11 @@
               "RelativeToolTip": "Data\\DawidKrolikiewiczProjContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T09:34:08.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T09:34:08.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\01_Dawidowe\\04_Programming\\ASP.NET\\DawidKrolikiewiczProj\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -98,18 +94,17 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-15T09:31:40.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T09:31:40.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\01_Dawidowe\\04_Programming\\ASP.NET\\DawidKrolikiewiczProj\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\01_Dawidowe\\04_Programming\\ASP.NET\\DawidKrolikiewiczProj\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAADwvyoAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvyUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T08:02:02.643Z",
               "EditorCaption": ""
