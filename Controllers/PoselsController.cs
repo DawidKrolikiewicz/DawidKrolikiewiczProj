@@ -84,6 +84,8 @@ namespace DawidKrolikiewiczProj.Controllers
             return View(posel);
         }
 
+
+        // [Custom: Wypełnianie formularza danymi losowego posła z api.sejm.gov]
         public async Task<IActionResult> Get()
         {
             Posel posel = new Posel();

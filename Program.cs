@@ -6,8 +6,6 @@ using DawidKrolikiewiczProj.Data;
 using DawidKrolikiewiczProj.Areas.Identity.Data;
 
 
-
-
 /*  ----------------------  Builder  ----------------------  */
 var builder = WebApplication.CreateBuilder(args);
 
@@ -28,12 +26,14 @@ builder.Services.AddDefaultIdentity<DawidKrolikiewiczProjUser>(options => option
     .AddEntityFrameworkStores<DawidKrolikiewiczProjContextIdentity>();
 
 
+
 /*  ----------  Add services to the container.  -----------  */
 builder.Services.AddControllersWithViews();
 
 // [Identity]
 builder.Services.AddRazorPages();
 
+// [Identity: Zmiana wymagañ dotycz¹cych has³a]
 builder.Services.Configure<IdentityOptions>(options =>
 {
     options.Password.RequireDigit = false;
@@ -41,6 +41,8 @@ builder.Services.Configure<IdentityOptions>(options =>
     options.Password.RequireLowercase = false;
     options.Password.RequireUppercase = false;
 });
+
+
 
 /*  --------------------  App.Build()  --------------------  */
 var app = builder.Build();
@@ -66,6 +68,10 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
+// [Identity]
 app.MapRazorPages();
 
+
+
+/*  ---------------------  App.Run()  ---------------------  */
 app.Run();
