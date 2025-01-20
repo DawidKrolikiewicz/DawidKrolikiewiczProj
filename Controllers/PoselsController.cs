@@ -118,6 +118,12 @@ namespace DawidKrolikiewiczProj.Controllers
             return posel;
         }
 
+        public async Task<IActionResult> ShowSearchResults(String SearchPhrase)
+        {
+            // Return view only with objects that match the pattern
+            return View("Index", await _context.Posel.Where(j => j.FirstName.Contains(SearchPhrase) || j.LastName.Contains(SearchPhrase)).ToListAsync());
+        }
+
         // POST: Posels/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.

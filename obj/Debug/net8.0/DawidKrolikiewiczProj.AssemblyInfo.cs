@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DawidKrolikiewiczProj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b86b45cfd205cd4fb0b2a10af15af385c728ae8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a69969805e8c9d4912761cf6921ccae3ead3b1cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("DawidKrolikiewiczProj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DawidKrolikiewiczProj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
